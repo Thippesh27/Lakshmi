@@ -21,7 +21,7 @@
    21  history
    22  clear
    23  pwd
-   24  cd ..
+   24  ..
    25  ls
    26  rm -rf temp/
    27  ls
