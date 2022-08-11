@@ -1,0 +1,88 @@
+    1  pwd
+    2  cd ..
+    3  pwd
+    4  ls
+    5  ls -lrt
+    6  cd ec2-user/
+    7  mkdir Practice
+    8  ls
+    9  mkdir temp
+   10  ls -lrt
+   11  cd practice
+   12  pwd
+   13  cd Practice
+   14  ls
+   15  touch demo.txt
+   16  ls -lrt
+   17  vi demo.txt 
+   18  cat demo.txt 
+   19  vi demo.txt 
+   20  cat demo.txt 
+   21  history
+   22  clear
+   23  pwd
+   24  cd ..
+   25  ls
+   26  rm -rf temp/
+   27  ls
+   28  exit
+   29  pwd
+   30  cd ec2-user
+   31  mkdir Thippu
+   32  cd Thippu
+   33  ls
+   34  ls -lrt
+   35  cd ..
+   36  pwd
+   37  ls
+   38  cd Thippu
+   39  touch Lakshmi.txt
+   40  ls
+   41  ls-lrt
+   42  pwd
+   43  vi Lakshmi.txt 
+   44  ls-lrt
+   45  pwd
+   46  ls
+   47  ls -lrt
+   48  cat Lakshmi.txt 
+   49  pwd
+   50  echo -e "abc" >> Lakshmi.txt 
+   51  cat Lakshmi.txt 
+   52  vi chinni
+   53  ls -lrt
+   54  git init
+   55  sudo yum install git
+   56  git add *
+   57  git status
+   58  git init
+   59  ls -lrt
+   60  git add *
+   61  git commit
+   62  pwd
+   63  cd Thippu
+   64  ls -lrt
+   65  git init
+   66  git status
+   67  ls -lart
+   68  git add
+   69  git commit
+   70  pwd
+   71  ls -lrt
+   72  git init
+   73  git status
+   74  git add *
+   75  git commit -m "adding scripts"
+   76  ls
+   77  cd Thippu/
+   78  git init
+   79  git status
+   80  git commit -m "adding scripts"
+   81  git remote -v
+   82  git push
+   83  git remote add origin https://github.com/Thippesh27/Lakshmi.git
+   84  git push origin
+   85   git push --set-upstream origin master
+   86  git status
+   87  history
+   88  history >> History.txt
