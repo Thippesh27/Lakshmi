@@ -1,7 +1,7 @@
     1  pwd
     2  cd ..
     3  pwd
-    4  ls
+   
     5  ls -lrt
     6  cd ec2-user/
     7  mkdir Practice
@@ -11,7 +11,7 @@
    11  cd practice
    12  pwd
    13  cd Practice
-   14  ls
+ 
    15  touch demo.txt
    16  ls -lrt
    17  vi demo.txt 
